@@ -1,1 +1,1 @@
-# CodeAlpha_HandwrittenDigitClassification
+# CodeAlpha_Machine_Learning_Internship_Projects
